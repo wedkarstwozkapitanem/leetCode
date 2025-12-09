@@ -2,13 +2,10 @@
 
 Repozytorium zawiera moje rozwiązania zadań z LeetCode, uporządkowane według poziomu trudności i nazwy zadania.
 
-Struktura katalogów została zaprojektowana tak, aby była:
-
-przejrzysta,
-
-łatwa w nawigacji,
-
-gotowa do dalszej rozbudowy (kolejne języki, kolejne zadania).
+### Struktura katalogów została zaprojektowana tak, aby była:
+-przejrzysta,
+-łatwa w nawigacji,
+-gotowa do dalszej rozbudowy (kolejne języki, kolejne zadania).
 
 ```
 📂 Struktura katalogów
@@ -31,9 +28,11 @@ Każdy folder zadania używa formatu:
 
 ## 🛠️ Technologie
 
-C++23 (g++ 14.2.0 – MSYS2)
+- C++23 (g++ 14.2.0 – MSYS2)
 
-Python 3.13
+- Python 3.13
+
+- rustc 1.87.0 
 
 inne języki w przyszłości
 
