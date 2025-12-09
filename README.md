@@ -4,7 +4,9 @@ Repozytorium zawiera moje rozwiązania zadań z LeetCode, uporządkowane według
 
 ### Struktura katalogów została zaprojektowana tak, aby była:
 -przejrzysta,
+
 -łatwa w nawigacji,
+
 -gotowa do dalszej rozbudowy (kolejne języki, kolejne zadania).
 
 ```
@@ -24,7 +26,7 @@ LeetCode/
 
 Każdy folder zadania używa formatu:
 
-### {ID}-{kebab-case-title}/solution.{cpp|py}
+### {ID}-{kebab-case-title}/solution.{cpp|py|rs}
 
 ## 🛠️ Technologie
 
