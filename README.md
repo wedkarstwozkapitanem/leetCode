@@ -2,7 +2,12 @@
 
 Repozytorium zawiera moje rozwiązania zadań z LeetCode, uporządkowane według poziomu trudności i nazwy zadania.
 
-### Struktura katalogów została zaprojektowana tak, aby była:
+Link do profilu leetCode:
+### https://leetcode.com/u/dominik_kapitan
+
+### 📂 Struktura katalogów
+
+## Struktura katalogów została zaprojektowana tak, aby była:
 -przejrzysta,
 
 -łatwa w nawigacji,
@@ -10,7 +15,6 @@ Repozytorium zawiera moje rozwiązania zadań z LeetCode, uporządkowane według
 -gotowa do dalszej rozbudowy (kolejne języki, kolejne zadania).
 
 ```
-📂 Struktura katalogów
 LeetCode/
  ├── easy/
  │    ├── 001-two-sum/
@@ -64,6 +68,9 @@ Przygotowanie do rozmów kwalifikacyjnych
 
 Budowa bazy rozwiązań do przyszłego porównywania progresu
 
-## 📌 UWAGA
 
-Treści zadań nie są przechowywane, zgodnie z regulaminem LeetCode.
+## 📌 Uwaga
+
+Treści problemów nie są przechowywane w repozytorium zgodnie z regulaminem LeetCode.
+
+Repozytorium zawiera wyłącznie moje własne implementacje rozwiązań.
