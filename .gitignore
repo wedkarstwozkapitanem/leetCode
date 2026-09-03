@@ -41,3 +41,7 @@
 *.dwo
 /cpp/.vscode
 /.vscode
+
+
+#ide
+.idea/
